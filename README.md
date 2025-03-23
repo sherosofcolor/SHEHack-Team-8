@@ -32,7 +32,7 @@ You can find our code here - https://github.com/mahimalolla/SheHacks-25
 ## How to Use
 
 1. **Home Page**
-   - Start at `login.html`
+   - Start at `mainpage.html`
    - Use the “Match Me” button to begin your journey
 
 2. **Profile Creation**
