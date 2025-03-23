@@ -59,8 +59,8 @@ You can find our code here - https://github.com/mahimalolla/SheHacks-25
 ---
 
 ## Collaborators
-Mahima Lolla
-Khushee Vakil 
-Suchitra Hole 
-Bhakti Pasnani
+- Mahima Lolla
+- Khushee Vakil 
+- Suchitra Hole 
+- Bhakti Pasnani
 
